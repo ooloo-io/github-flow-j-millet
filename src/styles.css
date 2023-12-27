@@ -2,10 +2,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
-.Header{
-	height: 50px;
-	display: flex;
-	justify-content:center;
-	align-items: center;
-	border-bottom: 1px solid black;
+
+.header {
+  height: 49px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid black;
 }
